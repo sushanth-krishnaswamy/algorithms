@@ -1,4 +1,4 @@
-package ctcr_codes;
+/*package ctcr_codes;
 
 class Node{
 	Node next;
@@ -153,3 +153,4 @@ public static ListOperations list1;
 		
 	}
 }
+*/
