@@ -1,4 +1,4 @@
-/*package ctcr_codes;
+package ctcr_codes;
 
 public class Example1 {
 
@@ -6,4 +6,3 @@ public class Example1 {
 		System.out.println("hiii");
 	}
 }
-*/
